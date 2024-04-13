@@ -1,0 +1,266 @@
+.elementor-67 .elementor-element.elementor-element-542b9fe:not(.elementor-motion-effects-element-type-background), .elementor-67 .elementor-element.elementor-element-542b9fe > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #CE0E2D;
+}
+
+.elementor-67 .elementor-element.elementor-element-542b9fe {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 32px 30px 0px 30px;
+}
+
+.elementor-67 .elementor-element.elementor-element-542b9fe > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-67 .elementor-element.elementor-element-e097daa {
+    text-align: left;
+}
+
+.elementor-67 .elementor-element.elementor-element-e097daa img {
+    width: 158px;
+}
+
+.elementor-67 .elementor-element.elementor-element-e097daa > .elementor-widget-container {
+    margin: 30px 0px 10px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-3441663 .elementor-spacer-inner {
+    --spacer-size: 15px;
+}
+
+.elementor-67 .elementor-element.elementor-element-7e639e2 {
+    font-size: 12px;
+}
+
+.elementor-67 .elementor-element.elementor-element-e1e73e5 {
+    width: 17.423%;
+}
+
+.elementor-67 .elementor-element.elementor-element-97bef53 .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.elementor-67 .elementor-element.elementor-element-97bef53 > .elementor-widget-container {
+    margin: 0px 0px 25px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(16px/2);
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(16px/2);
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(16px/2);
+    margin-left: calc(16px/2);
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-16px/2);
+    margin-left: calc(-16px/2);
+}
+
+body.rtl .elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-16px/2);
+}
+
+body:not(.rtl) .elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-16px/2);
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b {
+    --e-icon-list-icon-size: 14px;
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-text {
+    color: #FFFFFF;
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-item > .elementor-icon-list-text, .elementor-67 .elementor-element.elementor-element-42f772b .elementor-icon-list-item > a {
+    font-size: 11px;
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+
+.elementor-67 .elementor-element.elementor-element-42f772b > .elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-2ce1a36 {
+    width: 22.577%;
+}
+
+.elementor-67 .elementor-element.elementor-element-f77d6b7 .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.elementor-67 .elementor-element.elementor-element-f77d6b7 > .elementor-widget-container {
+    margin: 0px 0px 25px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-19d238c {
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.elementor-67 .elementor-element.elementor-element-80994fe .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.elementor-67 .elementor-element.elementor-element-80994fe > .elementor-widget-container {
+    margin: 0px 0px 25px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__input {
+    padding: 15px 15px 15px 15px;
+    color: #707070;
+    font-size: 12px;
+    line-height: 19px;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__input::-webkit-input-placeholder {
+    color: #707070;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__input::-moz-input-placeholder {
+    color: #707070;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__submit {
+    background-color: #1D1D1D;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__submit {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.elementor-67 .elementor-element.elementor-element-dd0d976 .lastudio-subscribe-form__message .lastudio-subscribe-form__message-inner {
+    justify-content: center;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-repeater-item-9293c3e.elementor-social-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-repeater-item-9293c3e.elementor-social-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-repeater-item-2c6fc1c.elementor-social-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-repeater-item-2c6fc1c.elementor-social-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 18px;
+    --grid-column-gap: 20px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-social-icon {
+    background-color: rgba(255,255,255,0);
+    --icon-padding: 0em;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-social-icon i {
+    color: #505050;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-social-icon svg {
+    fill: #505050;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-social-icon:hover i {
+    color: #dd6b33;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-social-icon:hover svg {
+    fill: #dd6b33;
+}
+
+.elementor-67 .elementor-element.elementor-element-61ef7d3 > .elementor-widget-container {
+    margin: 20px 0px 0px 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-6573a4d > .elementor-container {
+    max-width: 1330px;
+}
+
+.elementor-67 .elementor-element.elementor-element-6573a4d > .elementor-container > .elementor-column > .elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-67 .elementor-element.elementor-element-6573a4d:not(.elementor-motion-effects-element-type-background), .elementor-67 .elementor-element.elementor-element-6573a4d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #CE0E2D;
+}
+
+.elementor-67 .elementor-element.elementor-element-6573a4d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 15px 35px 30px 35px;
+}
+
+.elementor-67 .elementor-element.elementor-element-6573a4d > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-67 .elementor-element.elementor-element-45f6e0c > .elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: #D8D8D8;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-67 .elementor-element.elementor-element-45f6e0c > .elementor-element-populated > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-67 .elementor-element.elementor-element-01a4271 > .elementor-container > .elementor-column > .elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-67 .elementor-element.elementor-element-01a4271 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.elementor-67 .elementor-element.elementor-element-cc3979d {
+    text-align: left;
+}
+
+.elementor-67 .elementor-element.elementor-element-cc3979d .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 11px;
+    text-transform: uppercase;
+    line-height: 24px;
+}
+
+@media(max-width: 575px) {
+    .elementor-67 .elementor-element.elementor-element-42f772b {
+        --e-icon-list-icon-align:left;
+        --e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25) 0 0;
+    }
+
+    .elementor-67 .elementor-element.elementor-element-61ef7d3 .elementor-widget-container {
+        text-align: center;
+    }
+}
