@@ -1082,7 +1082,7 @@ h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-b
     margin-right: auto
 }
 
-.wp-block-image figcaption {
+.wp-block-image  {
     margin-top: .5em;
     margin-bottom: 1em
 }
