@@ -133,7 +133,7 @@
 }
 
 .elementor-90 .elementor-element.elementor-element-d459bbd:not(.elementor-motion-effects-element-type-background), .elementor-90 .elementor-element.elementor-element-d459bbd > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-image: url("https://simplyfoodslimited.com/wp-content/uploads/2022/03/m3-bg6-1.jpg");
+    background-image:data-src="images/bgg.jpg";
     background-position: center center;
     background-size: cover;
 }
@@ -226,7 +226,7 @@
 }
 
 .elementor-90 .elementor-element.elementor-element-d5d6076:not(.elementor-motion-effects-element-type-background), .elementor-90 .elementor-element.elementor-element-d5d6076 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-image: url("https://simplyfoodslimited.com/wp-content/uploads/2022/03/m3-bg6-1.jpg");
+    background-image: data-src="images/bgg.jpg";
     background-position: center center;
     background-size: cover;
 }
